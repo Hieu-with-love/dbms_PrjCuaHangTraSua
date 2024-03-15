@@ -1,0 +1,11 @@
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\bin\Debug\CuaHangTraSua.exe.config
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\bin\Debug\CuaHangTraSua.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\bin\Debug\CuaHangTraSua.pdb
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.csproj.AssemblyReference.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.Form1.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.Properties.Resources.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.csproj.GenerateResource.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Đề tài\Design GUI\CuaHangTraSua\obj\Debug\CuaHangTraSua.pdb
